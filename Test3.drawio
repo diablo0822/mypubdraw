@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="BaRntjUwnebHdrQb1P-L">
+    <mxGraphModel dx="671" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JWy2_w747PF1J9eIohUz-1" parent="1" style="whiteSpace=wrap;html=1;" value="VSI-CUDA&lt;div&gt;driver&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JWy2_w747PF1J9eIohUz-2" parent="1" style="whiteSpace=wrap;html=1;" value="VSI-CUDA&amp;nbsp;&lt;div&gt;VCC2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JWy2_w747PF1J9eIohUz-3" parent="1" style="whiteSpace=wrap;html=1;" value="HW&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="340" x="360" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="JWy2_w747PF1J9eIohUz-4" parent="1" style="whiteSpace=wrap;html=1;" value="cuDNN" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
